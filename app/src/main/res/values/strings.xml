@@ -36,4 +36,6 @@
         <item>@drawable/sukarno</item>
         <item>@drawable/supomo</item>
     </integer-array>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
 </resources>
